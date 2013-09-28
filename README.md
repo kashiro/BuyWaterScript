@@ -26,6 +26,7 @@ casperjs amazon_crystalgeyser.js --id=${id} --pass=${pass} --isProd
 ## Attention
 
 Please execute under the self-responsibility.
+
 We will not be responsible in any case.
 
 ※ いかなるケースでの責任を負いませんので自己責任の元実行してください。
