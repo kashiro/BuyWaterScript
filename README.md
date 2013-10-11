@@ -1,7 +1,7 @@
 # BuyWaterScript
 
 ## Description
-buy water on amazon.com by using casperjs
+buy the water on amazon.com by using casperjs
 
 ## Dependency
 
